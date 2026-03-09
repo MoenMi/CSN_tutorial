@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the following article."
+title: "Chemical Space Network Tutorial"
+type: software
+preferred-citation:
+  type: article
+  title: "Visualizing chemical space networks with RDKit and NetworkX"
+  authors:
+    - family-names: Scalfani
+      given-names: Vincent F.
+    - family-names: Patel
+      given-names: Vishank D.
+    - family-names: Fernandez
+      given-names: Avery M.
+  journal: "Journal of Cheminformatics"
+  year: 2022
+  volume: 14
+  issue: 1
+  start: 87
+  publisher: Springer
