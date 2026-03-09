@@ -13,6 +13,8 @@ preferred-citation:
     - family-names: Fernandez
       given-names: Avery M.
   journal: "Journal of Cheminformatics"
+  url: "https://doi.org/10.1186/s13321-022-00664-x"
+  doi: "10.1186/s13321-022-00664-x"
   year: 2022
   volume: 14
   issue: 1

@@ -10,6 +10,8 @@ Scalfani, V.F., Patel, V.D. & Fernandez, A.M. Visualizing chemical space network
   title={Visualizing chemical space networks with RDKit and NetworkX},
   author={Scalfani, Vincent F and Patel, Vishank D and Fernandez, Avery M},
   journal={Journal of Cheminformatics},
+  url={https://doi.org/10.1186/s13321-022-00664-x},
+  doi={10.1186/s13321-022-00664-x},
   volume={14},
   number={1},
   pages={87},
@@ -31,4 +33,3 @@ Approximate run times for the `CSN_calculations_lessMem.py` script:
 | 12th generation Intel Core i9, 64 GB RAM    | 22                   |    25 min        |
 | Raspberry Pi 5, 8 GB RAM                    | 3                    |    3 hours       |
 | Raspberry Pi 400, 4 GB RAM                  | 3                    |    5 hours       |
-
